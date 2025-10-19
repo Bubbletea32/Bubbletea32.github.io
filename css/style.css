@@ -1,0 +1,12 @@
+.hero-section{
+	height: 30vh;/*For X% screen height*/;
+	background-image: url("../img/IMG_2065.jpeg");
+	color:blue;
+	display:flex;
+	justify-content: center;
+	align-items:center ;
+}
+.hero-section h1{
+	text-align: center;
+	font-size: 56px;
+}
